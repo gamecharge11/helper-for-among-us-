@@ -1,0 +1,91 @@
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSz4auzEMg9vsC57u2bHwLkHV5ArJbIGdVhLg&usqp=CAU');
+    background-size: 100%;
+    color: white;
+
+}
+
+
+
+#Skeld{
+    position: absolute;
+    left: 1000px;
+    height: 250px;
+    width: 450px;
+    top: 10px;
+}
+
+#MIRAHQ{
+    position: absolute;
+    left: 1000px;
+    height: 250px;
+    width: 450px;
+    top: 300px; 
+}
+
+#Polus{
+    position: absolute;
+    left: 1000px;
+    height: 250px;
+    width: 450px;
+    top: 600px; 
+}
+
+label{
+    
+    font-size: 200%;
+    color: blue;
+}
+
+#S{
+    position: absolute;
+    left: 800px;
+    top: 100px;
+}
+
+#M{
+    position: absolute;
+    left: 800px;
+    top: 400px;
+}
+
+#P{
+    position: absolute;
+    left: 800px;
+    top: 700px;
+}
+
+h1{
+    font-size: 300%;
+    color: red;
+}
+
+textarea{
+    font-size: 200%;
+    color: red;
+}
+
+
+#r1{
+    color: red;
+}
+
+h2{
+    font-size: 250%;
+}
+
+#h1{
+    position: absolute;
+    top: 500px;
+    font-size: 300%;
+    left: 300px;
+    color: red;
+}
+
+#logo{
+    height: 200px;
+    width: 300px;
+    position: absolute;
+    top: 175px;
+    left: 500px;
+}
